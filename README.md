@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6394320.svg)](https://doi.org/10.5281/zenodo.6394320)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6394320.svg)](https://doi.org/10.3390/en16020902)
+[![DOI](https://zenodo.org/badge/DOI/10.3390/en16020902.svg)](https://doi.org/10.3390/en16020902)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Soul-Daniel/ELECTRE_Tri_B.py-2.0/HEAD)
 
