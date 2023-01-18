@@ -6,7 +6,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Soul-Daniel/ELECTRE_Tri_B.py-2.0/HEAD)
 
-Author: [Souleymane Daniel](mailto:souleymane.daniel@insa-lyon.fr)
+Authors: [Souleymane Daniel](mailto:souleymane.daniel@insa-lyon.fr) & [Christian Ghiaus](mailto:christian.ghiaus@insa-lyon.fr)
 
 [INSA Lyon](https://www.insa-lyon.fr), Lyon, France, 17/03/2022
 
