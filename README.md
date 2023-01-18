@@ -8,7 +8,7 @@
 
 Authors: [Souleymane Daniel](mailto:souleymane.daniel@insa-lyon.fr) & [Christian Ghiaus](mailto:christian.ghiaus@insa-lyon.fr)
 
-[INSA Lyon](https://www.insa-lyon.fr), Lyon, France, 17/03/2022
+Département Génie Energétique et Environnement, [INSA Lyon](https://www.insa-lyon.fr), Bâtiment Sadi Carnot 7 Rue de la Physique, CEDEX, 69621 Villeurbanne, France, 17/03/2022
 
 [**ELECTRE_Tri_B**](ELECTRE_Tri_B.py) is an over-ranking multi criteria decision analysis procedure allowing the ranking of a number of scenarios related to an issue into categories in order to assist in decision-making. The code proposed here is based on the ELECTRE Tri-B multi-criteria analysis procedure and aims to classify potential scenarios into a hierarchical set of categories. The particularity of this code is that it can be used to classify any scenario related to a decision problem as long as the input data is correctly provided.
 
